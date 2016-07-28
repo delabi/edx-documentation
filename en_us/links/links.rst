@@ -447,6 +447,8 @@
 
 .. _XSeries Programs: https://www.edx.org/xseries
 
+.. _financial assistance application: https://courses.edx.org/financial-assistance
+
 .. Browsers
 
 .. _Chrome: https://www.google.com/chrome
