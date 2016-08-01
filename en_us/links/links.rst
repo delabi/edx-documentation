@@ -449,6 +449,8 @@
 
 .. _financial assistance application: https://courses.edx.org/financial-assistance
 
+.. _Adding a Suffix or Certifications to Your Profile Name: https://www.linkedin.com/help/linkedin/answer/6545/adding-a-suffix-or-certifications-to-your-profile-name?lang=en
+
 .. Browsers
 
 .. _Chrome: https://www.google.com/chrome
