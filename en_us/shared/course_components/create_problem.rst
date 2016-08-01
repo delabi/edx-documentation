@@ -195,6 +195,16 @@ follow.
    * Insights also uses the text with this formatting to identify each problem.
      For more information, see `Using edX Insights`_.
 
+When you enter text, note that the simple editor cannot interpret certain
+symbol characters correctly. If you enter text that includes a greater than
+(>), less than (<), or ampersand (&) symbol, the simple editor cannot save your
+edits. To resolve this problem, replace these characters in your problem text
+with the HTML entities that represent them.
+
+* To enter >, type ``&gt;``.
+* To enter <, type ``&lt;``.
+* To enter &, type ``&amp;``.
+
 .. _Advanced Editor:
 
 ====================
