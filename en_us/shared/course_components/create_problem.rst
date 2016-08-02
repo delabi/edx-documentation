@@ -196,10 +196,11 @@ follow.
      For more information, see `Using edX Insights`_.
 
 When you enter text, note that the simple editor cannot interpret certain
-symbol characters correctly. If you enter text that includes a greater than
-(>), less than (<), or ampersand (&) symbol, the simple editor cannot save your
-edits. To resolve this problem, replace these characters in your problem text
-with the HTML entities that represent them.
+symbol characters correctly. These symbols are reserved HTML characters:
+greater than (>), less than (<), and ampersand (&). If you enter text that
+includes these characters, the simple editor cannot save your edits. To resolve
+this problem, replace these characters in your problem text with the HTML
+entities that represent them.
 
 * To enter >, type ``&gt;``.
 * To enter <, type ``&lt;``.
