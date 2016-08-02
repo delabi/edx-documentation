@@ -5,7 +5,7 @@ Enrolling in a Course or Program
 #################################
 
 This topic describes how to enroll in an edX course or program, select or
-change your course track, and verify your identity in an edX course.
+change your enrollment track, and verify your identity in an edX course.
 
 .. contents::
   :local:
@@ -22,30 +22,35 @@ programs.
 Courses
 =======
 
-You can take any edX course that you want to take. To learn about a course,
-view the About page for that course by selecting the course in the edX course
-list. The About page lists important information about the course, including a
-description of the course, the institution that offers the course, the hours of
-work that you should expect to spend on the course each week, and the course
-tracks that the course offers.
+To learn about a course, view the About page for that course by selecting the
+course in the edX course list. The About page lists important information about
+the course, including a course description, the institution that offers the
+course, the hours of work that you should expect to spend on the course each
+week, and the enrollment tracks that the course offers.
 
-Course Tracks
+Enrollment Tracks
 *********************
 
-When you enroll in an edX course, you enroll in one of two course tracks,
-depending on whether you want to earn a verified certificate for your course.
+When you enroll in an edX course, you enroll in one of the following enrollment
+tracks, depending on whether you want to earn a verified certificate for your
+course.
 
-* The audit track does not offer verified certificates.
+* The audit track does not offer certificates.
 * The verified track offers verified certificates to learners who verify their
   identities and pass the course.
 
 Audit Track
 ============
 
-All courses offer an audit track. The audit track does not include a
+Most courses offer an audit track. The audit track does not include a
 certificate when you complete your course. The audit track is free of charge,
 and includes access to all course materials, including assignments and exams.
 You are automatically enrolled in the audit track when you enroll in a course.
+
+After you enroll in the audit track, if the course offers a verified track and
+the deadline for enrolling in the verified track has not passed, you can
+upgrade to the verified track. For more information, see :ref:`SFD Change to
+the Verified Track`.
 
 .. _SFD Verified Track:
 
@@ -70,7 +75,7 @@ application`_.
   verification in that course. For more information, see :ref:`SFD Verify Your
   Identity`.
 
-If a course has a verified track, you see a “Verified” indication on the course
+If a course has a verified track, you see a "Verified" indication on the course
 image in the course catalog on edx.org.
 
 .. image:: ../../shared/students/Images/SFD_VerifiedBadge.png
@@ -92,22 +97,21 @@ Programs
 ========
 
 In addition to taking individual edX courses, you can enroll in an XSeries
-program. An XSeries program is a group of two to ten courses that explore a
-specific subject in depth. An XSeries program offers an XSeries certificate
-after you earn a verified certificate for all of the courses in the program.
-All courses in an XSeries program offer verified certificates.
+program. An XSeries program is a group of courses that explore a specific
+subject in depth. An XSeries program offers an XSeries certificate after you
+earn a verified certificate for all of the courses in the program. All courses
+in an XSeries program offer verified certificates.
 
-XSeries programs have an “XSeries program” indication in the course catalog on
-edx.org. To learn more about the program and the courses in the program, select
-the program.
+XSeries programs have an "XSeries program" indication in the course catalog on
+edx.org. To learn more about the program and its courses, select the program.
 
 .. image:: ../../shared/students/Images/SFD_XseriesBadge.png
    :width: 200
    :alt: An image of the Systematic Program Design card with an XSeries
        indicator.
 
-To complete an XSeries program, you must complete each of the courses in the
-XSeries program.
+To complete an XSeries program, you must earn a verified certificate in each of
+the courses in the program.
 
 For more information about XSeries programs, see `XSeries Programs`_ on
 edx.org.
@@ -130,7 +134,7 @@ Enroll in a Course
 
 To enroll in a course, follow these steps.
 
-#. In the edX course catalog, select the course that you want to take.
+#. In the `edX course catalog`_, select the course that you want to take.
 
 #. When the About page for the course opens, select **Enroll Now**.
 
@@ -179,28 +183,23 @@ to go to a page that has more information about the program. On this page, you
 can view your progress through the program, enroll in more of the program's
 courses, and view any certificates that you have earned.
 
-****************************
-Changing Your Course Track
-****************************
+******************************
+Changing Your Enrollment Track
+******************************
 
 You might enroll in the audit track for a course, but then decide that you want
-to earn a verified certificate. Or you might enroll in the verified certificate
-track for a course, but then decide that you want to audit the course instead.
-If the course has recently started, you might be able to change your course
-track.
+to earn a verified certificate. Or you might enroll in the verified track for a
+course, but then decide that you want to audit the course instead. If the
+course has recently started, you might be able to change your course track.
 
 .. note:: Currently you can only upgrade to the verified track for courses on
    the edx.org website.
 
-====================================================
-Change to the Verified Certificate Track
-====================================================
-
 .. _SFD Change to the Verified Track:
 
-============================
-Change to the Verified Track
-============================
+=============================
+Upgrade to the Verified Track
+=============================
 
 You can upgrade to the verified track until enrollment for verified
 certificates ends for your course, usually two or more weeks after the course
@@ -208,20 +207,21 @@ starts.
 
 To upgrade to the verified track, go to your dashboard, and then select
 **Upgrade to Verified Track** under the name of your course. You then follow
-the instructions to register for a verified certificate.
+the instructions to upgrade your enrollment track.
 
-If the **Upgrade to Verified Track** does not exist, the enrollment deadline
-for the verified certificate track has passed.
+If the **Upgrade to Verified Track** option does not exist, the enrollment
+deadline for the verified certificate track has passed.
 
 You must pay the course fee to enroll in the verified track. If you are unable
 to pay the course fee, you can apply for financial assistance using the
-`financial assistance application`_.
+`financial assistance application`_. You must apply for financial assistance
+before the deadline to enroll in the verified track has passed.
 
 After you submit a payment for the verified track, you can view that payment at
 any time. For more information, see :ref:`View Order History`.
 
 If you have a question or an issue with your payment, contact edX at
-billing@edx.org. Include your order number, but please **do not include your
+billing@edx.org. Include your order number, but **do not include your
 credit card information**.
 
 If you have questions about changing your certificate type, contact the edX
@@ -231,13 +231,13 @@ support team at technical@edx.org.
 Change to the Audit Track and Receive a Refund
 ==============================================
 
+.. important::
+  To receive a refund, you must change to the audit track before verified
+  certificate enrollment closes for your course.
+
 To change from the verified certificate track to the audit track, go to your
 dashboard, and then select **Unenroll** under the name of your course. The edX
 support team will contact you with information about a refund.
-
-.. note::
-  To receive a refund, you must change to the audit track before verified
-  certificate enrollment closes for your course.
 
 If you do not see an **Unenroll** option, enrollment for verified
 certificates has closed. Enrollment for verified certificates typically closes
@@ -255,11 +255,14 @@ Verifying Your Identity
 
 .. important::
 
-  You must use a webcam to verify your identity. If you do not have a webcam,
-  edX recommends that you find out if your local library has a webcam that you
-  can use, or that you borrow a friend's webcam. If you have a newer
-  smartphone, you can also verify your identity by going to edx.org in the
-  smartphone's browser.
+  You must use a webcam and a government-issued photo ID to verify your
+  identity. If you do not have a webcam, edX recommends that you find out if
+  your local library has a webcam that you can use, or that you borrow a
+  friend's webcam. If you have a smartphone that has a camera, you can also
+  verify your identity by visiting the following page in the smartphone's
+  browser.
+
+  https://courses.edx.org/verify_student/reverify
 
   If you do not use a webcam to verify your identity, you cannot receive a
   verified certificate.
@@ -267,13 +270,11 @@ Verifying Your Identity
 When you enroll in the verified certificate track for a course, you do not have
 to verify your identity immediately, but you must verify your identity before
 the course ID verification deadline. The deadline appears below the name of the
-course on your dashboard. You must have a webcam and a government-issued photo
-ID to verify your identity.
+course on your dashboard.
 
 To verify your identity, you use a webcam to submit a photo of yourself and of
 a government-issued photo ID to edX's authorization service. We encrypt your
 photos and use the highest levels of security available to protect your data.
-
 
 .. note::
 
@@ -291,9 +292,11 @@ To verify your identity, follow these steps.
 #. Make sure that you have a webcam and a government-issued photo ID available.
 
    If you do not have a webcam, your local library might have a webcam, or you
-   might be able to borrow a webcam from a friend. If you have a newer
-   smartphone, you can go to edx.org in the smartphone's browser to verify your
-   identity.
+   might be able to borrow a webcam from a friend. If you have a smartphone
+   that has a camera, you can also verify your identity by visiting the
+   following page in the smartphone's browser.
+
+   https://courses.edx.org/verify_student/reverify
 
 #. Start the verification process by completing one of the following actions.
 

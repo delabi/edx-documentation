@@ -306,9 +306,14 @@ Share an XSeries Certificate on LinkedIn
 
 To share an XSeries certificate on LinkedIn, follow these steps.
 
-#. Follow the steps at `Adding a Suffix or Certifications to Your Profile
-   Name`_ to open the **Certifications** page.
-#. Enter information in the following fields.
+.. note::
+  Because LinkedIn is a third-party website, the following steps might change
+  without notice. See the `LinkedIn`_ website for the most up-to-date LinkedIn
+  documentation.
+
+#. Follow the steps on the `Adding a Suffix or Certifications to Your Profile
+   Name`_ LinkedIn page to open the **Certifications** page on LinkedIn.
+#. On the **Certifications** page, enter information in the following fields.
 
    * For **Certification Name**, enter the name of the course.
    * For **Certification Authority**, enter ``edX``.
@@ -378,6 +383,13 @@ guidelines.
 
 * Make sure that your browser's print settings are set to include the
   background graphics for your certificate.
+
+.. note::
+  Most browsers also allow you to print a web certificate as a PDF file. When
+  you open the certificate in a browser and select **Print Certificate**, the
+  dialog box that opens might have an option such as **Print as PDF** or a
+  similar option. Select that option and follow the onscreen instructions to
+  print your certificate as a PDF.
 
 =======================
 Share a PDF Certificate
