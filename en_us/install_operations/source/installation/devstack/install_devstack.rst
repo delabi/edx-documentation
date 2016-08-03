@@ -149,7 +149,7 @@ client, follow these steps.
 
    .. code-block:: bash
 
-     curl -O https://raw.github.com/edx/configuration/master/vagrant/release/devstack/Vagrantfile
+     curl -L https://raw.github.com/edx/configuration/master/vagrant/release/devstack/Vagrantfile > Vagrantfile
 
 #. Download the torrent file for the latest Open edX release. For information
    about the latest Open edX releases and to download torrent files for them,
